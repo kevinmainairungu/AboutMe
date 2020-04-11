@@ -1,4 +1,4 @@
-# Android Dice Game
+# Android AboutMe
 
 
 Minimalist Android app that lets you play a dice game by rolling a dice.
@@ -12,6 +12,7 @@ Minimalist Android app that lets you play a dice game by rolling a dice.
 * gradle - https://gradle.org/
 ## Screenshot
 
+![Alt text](screenshots/Screenshot_1586605381.png?raw=true)
 
 ## Structure
 
