@@ -7,9 +7,7 @@
         android:id="@+id/name_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/cabin_sketch_bold"
         android:text="@string/kevin_irungu"
         android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="24sp" />
+        style="@style/NameStyle" />
 </LinearLayout>
