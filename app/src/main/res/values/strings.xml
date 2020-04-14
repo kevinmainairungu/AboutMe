@@ -2,4 +2,11 @@
     <string name="app_name">About Me</string>
     <string name="kevin_irungu">Kevin Irungu</string>
     <string name="star_name">star_name</string>
+
+    <string name="bio"> Hi my name is Kevin
+        \n\The important thing to remember is that since ScrollView can only have one child, you have to wrap that ImageView and the TextView into a LinearLayout.
+            \n\n The important thing to remember is that since ScrollView can only have one child, you have to wrap that ImageView and the TextView into a LinearLayout.
+            \n\n The important thing to remember is that since ScrollView can only have one child, you have to wrap that ImageView and the TextView into a LinearLayout.
+            \n\n The important thing to remember is that since ScrollView can only have one child, you have to wrap that ImageView and the TextView into a LinearLayout.
+     </string>
 </resources>

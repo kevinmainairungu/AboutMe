@@ -4,7 +4,7 @@
 AboutMe activity with a text view.
 
 ## Some key Lessons Learnt and Links to the resources
-* Activites and layouts - https://developer.android.com/reference/android/app/Activity
+* Activities and layouts - https://developer.android.com/reference/android/app/Activity
 * layout inflation - https://developer.android.com/reference/android/app/Activity.html#setContentView(int)
 * findviewbyid - https://developer.android.com/reference/android/view/View
 
