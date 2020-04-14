@@ -11,6 +11,8 @@ AboutMe activity with a text view.
 ## Screenshot
 
 ![Alt text](screenshots/Screenshot_1586605381.png?raw=true)
+![Alt text](screenshots/Screenshot_1586849104.png?raw=true)
+![Alt text](screenshots/Screenshot_1586851539.png?raw=true)
 
 ## Structure
 
