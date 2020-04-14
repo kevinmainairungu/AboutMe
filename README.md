@@ -4,15 +4,19 @@
 AboutMe activity with a text view.
 
 ## Some key Lessons Learnt and Links to the resources
-* Activities and layouts - https://developer.android.com/reference/android/app/Activity
-* layout inflation - https://developer.android.com/reference/android/app/Activity.html#setContentView(int)
-* findviewbyid - https://developer.android.com/reference/android/view/View
+* Activities and layouts - https://developer.android.com/reference/android/app/Activity.
+* layout inflation - https://developer.android.com/reference/android/app/Activity.html#setContentView(int).
+* Scrollview
+* imageView
+* editText
 
 ## Screenshot
 
 ![Alt text](screenshots/Screenshot_1586605381.png?raw=true)
 ![Alt text](screenshots/Screenshot_1586849104.png?raw=true)
 ![Alt text](screenshots/Screenshot_1586851539.png?raw=true)
+![Alt text](screenshots/Screenshot_1586853004.png?raw=true)
+
 
 ## Structure
 

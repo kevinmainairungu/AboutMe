@@ -9,4 +9,6 @@
             \n\n The important thing to remember is that since ScrollView can only have one child, you have to wrap that ImageView and the TextView into a LinearLayout.
             \n\n The important thing to remember is that since ScrollView can only have one child, you have to wrap that ImageView and the TextView into a LinearLayout.
      </string>
+    <string name="nickname_text">nickname</string>
+    <string name="enter_nickname">enter nickname</string>
 </resources>
