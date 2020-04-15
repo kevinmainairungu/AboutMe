@@ -32,13 +32,21 @@
         android:id="@+id/done_button"
         style="@style/NameStyle"
         android:colorAccent="@color/colorAccent"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="@dimen/layout_margin"
         android:fontFamily="@font/roboto"
         android:shadowColor="#F44336"
         android:text="@string/done" />
+
+    <TextView
+        android:id="@+id/nickname_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/roboto"
+        android:textAlignment="center"
+        android:textAppearance="@style/NameStyle" />
 
     <ImageView
         android:id="@+id/star_image"
