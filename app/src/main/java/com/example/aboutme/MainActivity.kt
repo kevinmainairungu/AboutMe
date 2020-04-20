@@ -10,11 +10,14 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
 
+
 class MainActivity : AppCompatActivity() {
+//    create a binding object
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
 // set setOnClickListener for the done_button
         findViewById<Button>(R.id.done_button).setOnClickListener {
             addNickname(it)
