@@ -87,6 +87,7 @@ You can:
 
 
 - [x] Adding a findViewById resource instance for the images
+- [ ] SplashScreen
 - [x] Binding data
 - [x] Updating the App to gradle 5.x
 - [X] Button for the 'done' functionality
