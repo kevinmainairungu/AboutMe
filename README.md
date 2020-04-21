@@ -107,9 +107,9 @@ You can:
 ### Want to contribute?
 I would/ We'd love to have your help in making  **{this app (About me)}** better. The project is still very incomplete, but if there's an issue you'd like to see addressed sooner rather than later, let me(/us) know. 
 
-Before you contribute though read the contributing guide here: [COntributing.md{edit this}](https://github.com/YourUserNameHere/ProjectName/contributing.md)
+Before you contribute though read the contributing guide here: [COntributing.md](https://github.com/YourUserNameHere/ProjectName/contributing.md)
 
-For any concerns, please open an [issue{edit this}](https://github.com/kevinmainairungu/AboutMe/issues), or JUST, [fork the project and send a pull request{edit this}](https://github.com/YourUserNameHere/ProjectName/pulls). 
+For any concerns, please open an [issue](https://github.com/kevinmainairungu/AboutMe/issues), or JUST, [fork the project and send a pull request{edit this}](https://github.com/kevinmainairungu/AboutMe/pulls). 
 
 <hr>
 
@@ -129,7 +129,7 @@ For personal feedback or questions feel free to contact me via the mail address,
 #### Developer/Company
 * Homepage:  
 * e-mail: 
-* Twitter: [@yourtwitterhandle](https://twitter.com/maina_irungu_ "YourName on twitter")
+* Twitter: [@yourtwitterhandle](https://twitter.com/maina_irungu_ "maina_irungu_")
 * other communication channels i.e Social Media, Forum etc
 
 
