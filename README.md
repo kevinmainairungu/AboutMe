@@ -2,11 +2,11 @@
   <a href="https://github.com/yourUserName/YourProjectName">
     <img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/art/readmEmasterTemplatesAndroid.jpg" alt="Project Name" width=250 height=160>
   </a>
-  <h3 align="center">Your Project Heading</h3>
+  <h3 align="center">About Me</h3>
 
   <p align="center">
-    Brief description about your project. <br>
-   And extra description.
+    Brief description about myself<br>
+   on Android.
     <br>
      <img src="https://forthebadge.com/images/badges/built-for-android.svg" alt="droidconKE2020 built for Android">
     <br>
@@ -31,12 +31,11 @@
 
 <hr>
 ## About the app
-Short description of how it works: maybe a small user flow description.
+Android about me application that shows best practices on implementing data binding
 
 <hr>
 ## General Preview
 #### Screenshots of the app
-You can have multiple images like below.
 
 <img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/1.jpg" width="200">
 <img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/2.jpg" width="200">
