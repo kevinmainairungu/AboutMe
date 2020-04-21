@@ -114,7 +114,7 @@ For any concerns, please open an [issue{edit this}](https://github.com/kevinmain
 <hr>
 
 ## License 
-* see [LICENSE](https://github.com/YourUserNameHere/ProjectName/LICENSE.md) file
+* see [LICENSE](https://github.com/kevinmainairungu/AboutMe/blob/master/LICENSE) file
 
 
 ## Versions 
@@ -123,13 +123,13 @@ For any concerns, please open an [issue{edit this}](https://github.com/kevinmain
 
 
 ## Contributers
-For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/tamzi). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/tamzi/ReadMe-MasterTemplates/issues) to report them.
+For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/kevinmainairungu). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/tamzi/ReadMe-MasterTemplates/issues) to report them.
 
 
 #### Developer/Company
 * Homepage:  
 * e-mail: 
-* Twitter: [@yourtwitterhandle](https://twitter.com/yourTwitterHandle "YourName on twitter")
+* Twitter: [@yourtwitterhandle](https://twitter.com/maina_irungu_ "YourName on twitter")
 * other communication channels i.e Social Media, Forum etc
 
 
@@ -141,10 +141,6 @@ If its open source:
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 
-If the Licence is MIT:
+Licence is MIT:
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)]()
-
-#### project-donation
-
-You can add *Gittip/Flattr/Paypal* buttons like this:
