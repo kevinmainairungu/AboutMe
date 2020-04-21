@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/tamzi/ReadMe-MasterTemplates">
-    <img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/art/readmemastertemplate.jpg" alt="ReadMe Master Templates" width=230 height=150>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fabout.me%2F&psig=AOvVaw0gQwTfD6x87XwZNHB6xqOA&ust=1587574611361000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCettX--egCFQAAAAAdAAAAABAD" alt="ReadMe Master Templates" width=230 height=150>
   </a>
   <h2 align="center">ReadMe Master Templates</h2>
 
