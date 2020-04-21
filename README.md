@@ -37,24 +37,11 @@ Android about me application that shows best practices on implementing data bind
 ## General Preview
 #### Screenshots of the app
 
-<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/1.jpg" width="200">
-<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/2.jpg" width="200">
-<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/3.jpg" width="200">
-
-##### Or combine 3 of them as:
-![3images](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/3screens.jpg)
+<img src="screenshots/Screenshot_1587483765.png" width="200">
 
 ##### Or combine 2 of them as:
-![2images](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/2In1Mix.jpg)
+![2images](screenshots/Screenshot_1587490002.png)
 
-##### Or have image with a spoiller explanation:
-![WithExplanations](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/withexplanations.jpg)
-
-
-#### App Stores
-Is the app published? You can share a link as below:
-
-[![Download it on Google Play](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/gplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
 
 <hr>
 ## Technical
@@ -70,11 +57,8 @@ Is the app published? You can share a link as below:
 You can:
 
     a. clone the project and compile it yourself in android studio(Most up to date)
-    b. Run the already compiled version on the(the proect comes with an apk folderwith various apk versions), 
-    c. You can check it out already compiled at Google Play(Mostly the one that is last to be published.)
-        Downoad it here: [Download App](https://play.google.com/store/apps/details?id=com.package.path)
+    b. Run the already compiled version on the(the proect comes with an apk folderwith various apk versions).
 
-*include option c if you have published the app on the palystore.
 <hr>
 
 ### TECHNICAL
@@ -88,7 +72,7 @@ You can:
 
 **2. Clone this repository :**
  
-         `git clone https://github.com/username/projectname.git`
+         `https://github.com/kevinmainairungu/AboutMe.git`
          
 **3. open Project in Android Studio
 
@@ -101,17 +85,14 @@ You can:
 
 ## To Do List
 
-Add the various things that you are working on.  
 
-- [ ] Adding bounce animations to the home screen
-- [x] Creating a gallery
-- [x] Updating the App to gradle 4.0
-- [x] Praying that this thing works
-- [ ] Adding various potatoes to be eaten in the couch
-- [ ] Building a castle in the air
-- [ ] Listening to new music from my favourite artist
-
-
+- [x] Adding a findViewById resource instance for the images
+- [x] Binding data
+- [x] Updating the App to gradle 5.x
+- [X] Button for the 'done' functionality
+- [ ] Creating additional activities for more details
+- [ ] Add recycler view
+- [ ] Link to projects
 
 
 
