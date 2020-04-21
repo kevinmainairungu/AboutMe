@@ -40,7 +40,7 @@ Android about me application that shows best practices on implementing data bind
 <img src="screenshots/Screenshot_1587483765.png" width="200">
 
 ##### Or combine 2 of them as:
-![2images](screenshots/Screenshot_1587490002.png) width ="300""
+![2images](screenshots/two.jpg) width ="300""
 
 
 <hr>
@@ -104,7 +104,7 @@ You can:
 * [Contributors](https://github.com/username/projectName/graphs/contributors)
 
 ### Want to contribute?
-I would/ We'd love to have your help in making  **{this app (replace with name of your project)}** better. The project is still very incomplete, but if there's an issue you'd like to see addressed sooner rather than later, let me(/us) know. 
+I would/ We'd love to have your help in making  **{this app (About me)}** better. The project is still very incomplete, but if there's an issue you'd like to see addressed sooner rather than later, let me(/us) know. 
 
 Before you contribute though read the contributing guide here: [COntributing.md{edit this}](https://github.com/YourUserNameHere/ProjectName/contributing.md)
 
