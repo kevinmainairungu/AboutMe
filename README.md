@@ -124,7 +124,7 @@ For any concerns, please open an [issue](https://github.com/kevinmainairungu/Abo
 
 
 ## Contributers
-For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/kevinmainairungu). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/tamzi/ReadMe-MasterTemplates/issues) to report them.
+For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/kevinmainairungu). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/kevinmainairungu/AboutMe/issues) to report them.
 
 
 #### Developer/Company
