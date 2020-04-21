@@ -1,131 +1,169 @@
 <p align="center">
-  <a href="https://github.com/tamzi/ReadMe-MasterTemplates">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fabout.me%2F&psig=AOvVaw0gQwTfD6x87XwZNHB6xqOA&ust=1587574611361000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCettX--egCFQAAAAAdAAAAABAD" alt="ReadMe Master Templates" width=230 height=150>
+  <a href="https://github.com/yourUserName/YourProjectName">
+    <img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/art/readmEmasterTemplatesAndroid.jpg" alt="Project Name" width=250 height=160>
   </a>
-  <h2 align="center">ReadMe Master Templates</h2>
+  <h3 align="center">Your Project Heading</h3>
 
   <p align="center">
-    If you are working on your projects and using github, the README.md file is a useful starter place for you to write good and clear documentations for  your projects. Use this readMe roject to get started with your project's ReadMe.md file.
+    Brief description about your project. <br>
+   And extra description.
+    <br>
+     <img src="https://forthebadge.com/images/badges/built-for-android.svg" alt="droidconKE2020 built for Android">
     <br>
     </p>
 </p>
 
 <br>
 
-## Table of contents
-- [Description](#description)
-- [Why the MasterTemplates?](#why-the-master-templates)
-- [How to use them](#how-to-use-them)
-- [Roadmap](#roadmap)
-- [Releases](#releases)
-- [Contributors](#contributors)
-- [Licence](#licence)
+### Table of contents
 
-<hr>
+**1 [About the App](#about-the-app)**<br>
+**2 [General Preview](#general-preview)**<br>
+**3 [Technical](#technical)**<br>
+**4 [Work in Progress](#work-in-progress)**<br>
+**5 [Contributing](#contributing)**<br>
+**6 [License](#license)**<br>
+**7 [Versions](#versions)**<br>
+**8 [Contributers](#contributers)**<br>
 
-### Description
-
-Despite the fact that you writing a technical document, it needs to be clear. Describing your project makes it easier for people to contribute to it and alos use it!
-
-In this project you wil find the following readMes:
-
- - [Android Project ReadMe template](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/android)
- - [Web project template](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/website)
- - A General contibutions guide in each project
-
-<hr>
-
-### Why the Master Templates?
-
-With the use of version control, there is a huge struggle among most people to do a brief of what their project is about.
-Lets face it, most developers are not into typing out prose to explain what they just built. Others dread the whole process of documenting it.
-<br>
-In addition, what to include so that someone else working on their project can benefit from their amazing work can sometimes be a hard task.
-<br>
-This is the foundation behind this project. A sample project that allows you to get started with a well written **ReadMe.md** file.
-
-ReadMe MasterTemplates:
-* Give developers an easy time when writing their project ReadMe.
-
-* Enable more time to be spent coding out their projects.
-
-* Help us have better github projects without one liners.
-
-* Help people who want to use the various projects on github to know more about the project's architecture.
+:point_down: :point_down: :point_down: :point_down: :point_down:
 
 
 <hr>
+## About the app
+Short description of how it works: maybe a small user flow description.
 
-### How to use them
+<hr>
+## General Preview
+#### Screenshots of the app
+You can have multiple images like below.
 
-1. All the files are in markdown format. While it is good to learn markdown. It is always great to have the [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) bookmarked somewhere in your browser.
-If you can learn it, awesome! It will save you time...But it really is not important: **the more you use markdown, the better you get at it O.o**.
+<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/1.jpg" width="200">
+<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/2.jpg" width="200">
+<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/3.jpg" width="200">
 
-2. There are different Markdown templates for each type of project as below: 
-    * [Android](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/android)- For android focused ReadMe
-    * [Website](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/website)- For websites with HTML, CSS and JS
-    * IOS ...coming soon - FOr IOS projects
-    * Scripts ....coming soon - For Python, JS type projects
-    * brief ...coming soon - TLo edit, this is a minimal version
+##### Or combine 3 of them as:
+![3images](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/3screens.jpg)
 
-3. Copy the respective files depending on the type of project. Paste it and edit the file.
+##### Or combine 2 of them as:
+![2images](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/2In1Mix.jpg)
 
-4. As a general rule, provide link to download the app if its published on the playstore /website if it is hosted at the description section above.See image below
-:point_down: :point_down:
+##### Or have image with a spoiller explanation:
+![WithExplanations](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/withexplanations.jpg)
 
-![Edit the Website link](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/website/art/web.png)
 
-5. Want to give a suggestion? Feel free: it's open source. you can [raise issues here](https://github.com/tamzi/ReadMe-MasterTemplates/issues):
+#### App Stores
+Is the app published? You can share a link as below:
 
+[![Download it on Google Play](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/gplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
+
+<hr>
+## Technical
+## Permissions
+* Any permissions needed by the app i.e:
+
+1. Internet
+2. Browse phone
 
 <hr>
 
-### Roadmap
-  🚧 👷‍ ⛏ 👷 🔧️ 🚧
-- [x] Create An Android Projects ReadMe
-- [x] Create a website ReadMe for Html and css and JS projects
-- [ ] Creat a Scripts ReadMe file for Python, php, js type projects
-- [ ] Create a ReadMe file for IOS projects
+#### Running the project
+You can:
 
-I would love to have your help in making  **readMe master templates** better.
+    a. clone the project and compile it yourself in android studio(Most up to date)
+    b. Run the already compiled version on the(the proect comes with an apk folderwith various apk versions), 
+    c. You can check it out already compiled at Google Play(Mostly the one that is last to be published.)
+        Downoad it here: [Download App](https://play.google.com/store/apps/details?id=com.package.path)
 
-The project is still very incomplete but under development. If there's an [issue](https://github.com/tamzi/ReadMe-MasterTemplates/issues) you'd like to see addressed sooner rather than later:
+*include option c if you have published the app on the palystore.
+<hr>
 
-- [Open an issue](https://github.com/tamzi/ReadMe-MasterTemplates/issues),
+### TECHNICAL
 
-    or JUST,
+#### How to use
 
-- [Fork the project and send a pull request](https://github.com/tamzi/ReadMe-MasterTemplates/pulls).
+**1. Required to run project:**
+       ` - To run this project use Android studio 3.* and later. It will be less messy.
+         - Gradle version used: gradle 4.0. You can use multiple gradle versions vby having them stored offline. [You can read this to set it up.](www.sth)
+        `
+
+**2. Clone this repository :**
+ 
+         `git clone https://github.com/username/projectname.git`
+         
+**3. open Project in Android Studio
+
+**4. Build Project**
+
+**5. Incase of an eror when building project, update your gradle version, Build Tools download**
 
 
-Before you contribute though read the contributing guide here: [CONTRIBUTING GUIDE](https://github.com/tamzi/droidconKE2020App/blob/master/contributing.md)
+#### Dependencies
+
+## To Do List
+
+Add the various things that you are working on.  
+
+- [ ] Adding bounce animations to the home screen
+- [x] Creating a gallery
+- [x] Updating the App to gradle 4.0
+- [x] Praying that this thing works
+- [ ] Adding various potatoes to be eaten in the couch
+- [ ] Building a castle in the air
+- [ ] Listening to new music from my favourite artist
 
 
+
+
+
+#### CONTRIBUTING
+### Assets
+* Credit to artists(music,images,gifs...)
+
+### List of the Contributors on GitHub
+* [Contributors](https://github.com/username/projectName/graphs/contributors)
+
+### Want to contribute?
+I would/ We'd love to have your help in making  **{this app (replace with name of your project)}** better. The project is still very incomplete, but if there's an issue you'd like to see addressed sooner rather than later, let me(/us) know. 
+
+Before you contribute though read the contributing guide here: [COntributing.md{edit this}](https://github.com/YourUserNameHere/ProjectName/contributing.md)
+
+For any concerns, please open an [issue{edit this}](https://github.com/YourUserNameHere/ProjectName/issues), or JUST, [fork the project and send a pull request{edit this}](https://github.com/YourUserNameHere/ProjectName/pulls). 
 
 <hr>
 
-### Releases
-- [x] [code of conduct](https://github.com/tamzi/ReadMe-MasterTemplates/blob/master/CodeOfConduct.md)
-- [x] [contribution](https://github.com/tamzi/ReadMe-MasterTemplates/blob/master/contributing.md)
-- [x] [Android ReadMe version](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/android)
-- [ ] Web version
-- [ ] A brief ReadMe
+## License 
+* see [LICENSE](https://github.com/YourUserNameHere/ProjectName/LICENSE.md) file
 
-### Contributors
 
-<a href="https://github.com/tamzi/ReadMe-MasterTemplates/graphs/contributors">
-  <img src="https://contributors-img.firebaseapp.com/image?repo=tamzi/ReadMe-MasterTemplates" />
-</a>
-
-Twitter:  [@tamrefrank](https://twitter.com/tamrefrank)
-
-### Licence
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](#)
-
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](#)
+## Versions 
+* Version X.Y  DATE 12/2/2019
 
 
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftamzi%2FReadMe-MasterTemplates.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftamzi%2FReadMe-MasterTemplates?ref=badge_large)
+## Contributers
+For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/tamzi). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/tamzi/ReadMe-MasterTemplates/issues) to report them.
 
-<a href="https://www.producthunt.com/posts/readme-master-templates?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-readme-master-templates" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=186076&theme=light" alt="ReadMe Master Templates - Better ReadMe projects for your projects! | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+
+#### Developer/Company
+* Homepage:  
+* e-mail: 
+* Twitter: [@yourtwitterhandle](https://twitter.com/yourTwitterHandle "YourName on twitter")
+* other communication channels i.e Social Media, Forum etc
+
+
+https://contributors-img.firebaseapp.com/
+
+<hr>
+
+If its open source:
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
+
+If the Licence is MIT:
+
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)]()
+
+#### project-donation
+
+You can add *Gittip/Flattr/Paypal* buttons like this:
