@@ -129,7 +129,7 @@ For personal feedback or questions feel free to contact me via the mail address,
 #### Developer/Company
 * Homepage:  
 * e-mail: 
-* Twitter: [@yourtwitterhandle](https://twitter.com/maina_irungu_ "maina_irungu_")
+* Twitter: [@maina_irungu_](https://twitter.com/maina_irungu_ "maina_irungu_")
 * other communication channels i.e Social Media, Forum etc
 
 
