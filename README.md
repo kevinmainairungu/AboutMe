@@ -40,7 +40,7 @@ Android about me application that shows best practices on implementing data bind
 <img src="screenshots/Screenshot_1587483765.png" width="200">
 
 ##### Or combine 2 of them as:
-![2images](screenshots/Screenshot_1587490002.png)
+![2images](screenshots/Screenshot_1587490002.png) width ="300""
 
 
 <hr>
